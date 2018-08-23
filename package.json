@@ -1,0 +1,15 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Menachem Greenberg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
